@@ -53,7 +53,7 @@ The case provides strong airflow potential, with the Noctua P12 added for enhanc
 
 ## 🛠️ Build Photos
 
-> Images will be uploaded via my GitHub repo.
+> Images will be uploaded via my GitHub repo. Here is a PCPartPicker Link with my most up-to-date build - https://pcpartpicker.com/list/rjFHJn
 ---
 
 ## 📝 Future Plans
