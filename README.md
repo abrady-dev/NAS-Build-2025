@@ -8,7 +8,7 @@ Hello my name is Aden and this is documentation for my first project a small hom
 
 | Component       | Model |
 |----------------|-------|
-| **CPU**        | AMD Ryzen 5 5600G 3.9 GHz 6-Core Processor |
+| **CPU**        | AMD Ryzen 7 5700G 3.8 GHz 8-Core Processor |
 | **CPU Cooler** | Thermalright Assassin X 120 Refined SE (66.17 CFM) |
 | **Motherboard**| Gigabyte B550M AORUS Elite AX (Micro ATX, AM4) |
 | **Memory**     | TEAMGROUP T-Force Vulcan Z 32GB (2 x 16GB) DDR4-3200 CL16 |
@@ -53,7 +53,7 @@ The case provides strong airflow potential, with the Noctua P12 added for enhanc
 
 ## 🛠️ Build Photos
 
-> Images will be uploaded via my GitHub repo. Here is a PCPartPicker Link with my most up-to-date build - https://pcpartpicker.com/list/rjFHJn
+> Images will be uploaded via my GitHub repo. Here is a PCPartPicker Link with my most up-to-date build - https://pcpartpicker.com/list/yYCDMC
 ---
 
 ## 📝 Future Plans
