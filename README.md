@@ -13,7 +13,7 @@ Hello my name is Aden and this is documentation for my first project a small hom
 | **Motherboard**| Gigabyte B550M AORUS Elite AX (Micro ATX, AM4) |
 | **Memory**     | TEAMGROUP T-Force Vulcan Z 32GB (2 x 16GB) DDR4-3200 CL16 |
 | **Boot Drive** | Patriot P300 256GB M.2 PCIe 3.0 x4 NVMe SSD |
-| **Storage Drives** | 2x Seagate IronWolf NAS 4TB 5400 RPM 3.5" HDD |
+| **Storage Drives** | 4x Seagate IronWolf NAS 4TB 5400 RPM 3.5" HDD |
 | **Case**       | Cooler Master N400 ATX Mid Tower |
 | **Power Supply** | Thermaltake Toughpower GX2 600W 80+ Gold |
 | **Case Fan**   | Noctua NF-P12 redux-1700 PWM (70.75 CFM, 120mm) + Stock Case Fans |
@@ -36,7 +36,7 @@ The case provides strong airflow potential, with the Noctua P12 added for enhanc
 ## 💾 Storage Layout
 
 - **Boot**: Patriot P300 NVMe SSD (for TrueNAS or future OS)
-- **Data**: 2x 4TB Seagate IronWolf NAS drives (mirrored or ZFS RAIDZ planned)
+- **Data**: 4x 4TB Seagate IronWolf NAS drives (mirrored or ZFS RAIDZ planned)
 - Future expansion will use remaining SATA ports, or add a PCIe SATA controller if needed.
 
 ---
