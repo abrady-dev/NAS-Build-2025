@@ -15,7 +15,7 @@ Hello my name is Aden and this is documentation for my first project a small hom
 | **Boot Drive** | Patriot P300 256GB M.2 PCIe 3.0 x4 NVMe SSD |
 | **Storage Drives** | 4x Seagate IronWolf NAS 4TB 5400 RPM 3.5" HDD |
 | **Case**       | Cooler Master N400 ATX Mid Tower |
-| **Power Supply** | Thermaltake Toughpower GX2 600W 80+ Gold |
+| **Power Supply** | EVGA SuperNOVA 750 GT 750 W 80+ Gold |
 | **Case Fan**   | Noctua NF-P12 redux-1700 PWM (70.75 CFM, 120mm) + Stock Case Fans |
 
 ---
