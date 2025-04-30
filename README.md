@@ -25,11 +25,12 @@ Hello my name is Aden and this is documentation for my first project a small hom
 | Fan Location | Fan | Direction |
 |--------------|-----|-----------|
 | Front (stock) | 120mm | Intake |
-| Rear (stock)  | 120mm | Exhaust |
-| Top (added)   | Noctua P12 Redux | Exhaust |
-| Side (future) | TBD (optional) | Intake over HDDs |
+| Front (stock)  | 120mm | Intake |
+| (added) | Noctua P12 Redux | Exhaust |
+| Side (future) | TBD |
 
 The case provides strong airflow potential, with the Noctua P12 added for enhanced top exhaust and quieter performance. Planning to add a side intake in the future to help cool the hard drives directly. I might change the fan configuration to having the Noctua Fan at the Fan as well (TBD)
+Ran into the issue of not having enough fan ports on the motherboard so had to get a spitter and join the two intake fans to work correctly. 
 
 ---
 
