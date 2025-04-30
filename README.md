@@ -11,7 +11,7 @@ Hello my name is Aden and this is documentation for my first project a small hom
 | **CPU**        | AMD Ryzen 7 5700G 3.8 GHz 8-Core Processor |
 | **CPU Cooler** | Thermalright Assassin X 120 Refined SE (66.17 CFM) |
 | **Motherboard**| Gigabyte B550M AORUS Elite AX (Micro ATX, AM4) |
-| **Memory**     | TEAMGROUP T-Force Vulcan Z 32GB (2 x 16GB) DDR4-3200 CL16 |
+| **Memory**     | TEAMGROUP T-Create Expert 32GB (2 x 16 GB) DDR4-3600 CL18 |
 | **Boot Drive** | Patriot P300 256GB M.2 PCIe 3.0 x4 NVMe SSD |
 | **Storage Drives** | 4x Seagate IronWolf NAS 4TB 5400 RPM 3.5" HDD |
 | **Case**       | Cooler Master N400 ATX Mid Tower |
