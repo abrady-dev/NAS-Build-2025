@@ -9,11 +9,6 @@ This document outlines how I configured remote access to my TrueNAS SMB share us
 * **Platform**: TrueNAS SCALE
 * **Access method**: SMB (macOS Finder via `smb:// and windows File Exploror`)
 * **VPN**: Tailscale
-* **Features used**:
-
-  * Tailscale IPs (100.x.x.x)
-  * LAN access control (disabled to enforce VPN-only access)
-
 ---
 
 ## 🪜 Step-by-Step Setup Guide
@@ -58,7 +53,7 @@ This document outlines how I configured remote access to my TrueNAS SMB share us
 
 ### 6. Testing Remote Access
 
-* Disconnect from your home network (e.g. join school Wi-Fi or use phone hotspot).
+* Disconnect from your home network (use a phone hotspot).
 * Enable Tailscale on your Mac.
 * Use the saved `smb://100.x.x.x` connection.
 * Confirm you can browse and access the NAS remotely.
