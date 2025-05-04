@@ -37,3 +37,35 @@ This document outlines the setup process for installing and configuring Portaine
 After deployment:
 
 - Access Portainer via:
+
+- (Check the assigned port in the Portainer app summary after install)
+- Log in and create the initial admin account.
+
+---
+
+## ✅ Verifying Setup
+
+- Ensure the container status is **Running** in the **Installed Applications** tab.
+- Navigate to the web interface and confirm dashboard loads successfully.
+- (Optional) Enable TLS if running over public networks or through Tailscale.
+
+---
+
+## 📁 Notes on Clean App Management
+
+- Creating **individual datasets per app** is a clean and scalable strategy.
+- This allows for:
+- Better permission control
+- More efficient snapshotting
+- Easy backups/restores
+
+---
+
+## 💡 Optional Improvements
+
+- Use **Tailscale** to securely access Portainer remotely.
+- Set up automatic updates through the TrueNAS App catalog.
+- Monitor logs through the **App > Manage > Logs** section.
+
+---
+
